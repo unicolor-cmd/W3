@@ -13,13 +13,5 @@ public class H3_main {
         wartend -= zuweisbar;
 
         istVoll = (max == fix);
-
-        /*
-        while (fix < max && wartend > 0) {
-            wartend --;
-            fix ++;
-        }
-        istVoll = (max == fix);
-        */
     }
 }
